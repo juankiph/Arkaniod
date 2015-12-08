@@ -3,5 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/Users/juankiph/Desktop/DAM/sistemas informaticos/acm.jar"/>
+	<classpathentry kind="lib" path="/Users/juankiph/Downloads/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/juankiph/Downloads/acm.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
